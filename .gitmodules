@@ -1,0 +1,3 @@
+[submodule "AngularAuth"]
+	path = AngularAuth
+	url = https://github.com/amircabili/AngularAuth.git
