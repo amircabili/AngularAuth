@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # NgApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
@@ -28,5 +26,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 "# AngularAuth" 
->>>>>>> 60d5e6c1d4955d1d226f169f3ccefaa20f872a3c
 "# AngularAuth" 
